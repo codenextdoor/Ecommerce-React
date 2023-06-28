@@ -1,0 +1,11 @@
+main {
+  min-height: 80vh;
+}
+
+.product-link {
+  text-decoration: none;
+}
+
+.product-link:hover {
+  text-decoration: underline;
+}
